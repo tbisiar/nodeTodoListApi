@@ -1,0 +1,14 @@
+{
+  "name": "node_todo_list_api",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi built with node following directions at https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tbisiar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.5"
+  }
+}
